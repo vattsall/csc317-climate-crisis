@@ -10,12 +10,12 @@ Here’s what the homepage looks like:
 ![Key Facts](1.jpg)
 
 ### Causes Section
-![Causes](3.jpg)
+![Causes](4.jpg)
 
 ### Impacts Section
-![Impacts](4.jpg)
+![Impacts](7.jpg)
 
 ### Data & Charts
-![Data Charts](7.jpg)
+![Data Charts](3.jpg)
 
 
