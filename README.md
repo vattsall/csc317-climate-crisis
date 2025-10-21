@@ -4,10 +4,10 @@
 Here’s what the homepage looks like:
 
 ### Homepage
-![Homepage](1.jpg)
+![Homepage](2.jpg)
 
 ### Key Facts Section
-![Key Facts](2.jpg)
+![Key Facts](1.jpg)
 
 ### Causes Section
 ![Causes](3.jpg)
